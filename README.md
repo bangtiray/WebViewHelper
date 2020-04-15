@@ -1,6 +1,9 @@
 # Android WebViewHelper Help you to show website on Webview
 
+![Input Url](https://raw.githubusercontent.com/bangtiray/asset-orang/master/Screenshot_20200415-170924.png)
+![Result](https://raw.githubusercontent.com/bangtiray/asset-orang/master/Screenshot_20200415-170931.png)
 
+#Jitpack libary version
 [![](https://jitpack.io/v/bangtiray/btbvpager.svg)](https://jitpack.io/#bangtiray/btbvpager) 
 
 Step 1. Add the JitPack repository to your build file
